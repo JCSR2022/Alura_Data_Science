@@ -159,11 +159,3 @@ The techniques learned here can be applied to:
 
 The ultimate objective of this repository is to demonstrate how **Machine Learning can improve business processes, support decision-making, and generate strategic growth opportunities**, combining strong statistical foundations with practical implementation skills.
 
----
-
-If you'd like, I can also generate:
-
-* A more academic-style README
-* A more corporate/professional portfolio-style README
-* Or a visually enhanced version with badges and structure optimized for GitHub presentation 🚀
-
