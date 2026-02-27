@@ -22,7 +22,7 @@ This module explores the end-to-end process of building predictive models, from 
 
 | File | Description |
 | --- | --- |
-| `Regresion_lineal.ipynb` | The main execution notebook containing all experiments and analysis. |
+| `2212_Regresion_lineal.ipynb` | The main execution notebook containing all experiments and analysis. |
 | `dataset.csv` | The primary dataset used for training, testing, and validation. |
 
 ---
